@@ -1,0 +1,6 @@
+{
+  "name": "SIA-MIS - Sistem Informasi Absensi Siswa MI",
+  "description": "SIA-MIS adalah Sistem Informasi Absensi Siswa Madrasah Ibtidaiyah untuk mengelola presensi, data siswa, data guru, kelas, pengumuman, kalender akademik, dan laporan sekolah secara terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
